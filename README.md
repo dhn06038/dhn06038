@@ -11,7 +11,7 @@
 </div>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/C%23-DB7093?style=for-the-badge&logo=C%23&logoColor=ffd35b" />&nbsp
+  <img src="https://img.shields.io/badge/C%23-DB7093?style=for-the-badge&logo=data:image/svg%2bxml;base64,aHR0cHM6Ly9pbWcuaWNvbnM4LmNvbS9jb2xvci80OC9jLXNoYXJwLWxvZ28ucG5n&logoColor=ffd35b" />&nbsp
   <img src="https://img.shields.io/badge/tailwindcss-1daabb.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/css3-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />&nbsp
 </div>
