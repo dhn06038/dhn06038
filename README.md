@@ -19,6 +19,12 @@
 
 <br>
 
+<div align="center">
+  <img src="https://img.shields.io/badge/Unity-FFFFFF.svg?style=for-the-badge&logo=unity&logoColor=37abff" />&nbsp
+</div>
+
+<br>
+
 <h3 align="center">📚 Studying 📚</h3>
 <div align="center">
   <img src="https://img.shields.io/badge/javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=20232a" />&nbsp
@@ -36,7 +42,7 @@
 </div>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Unity-FFFFFF.svg?style=for-the-badge&logo=unity&logoColor=37abff" />&nbsp
+  
   <img src="https://img.shields.io/badge/figma-F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />&nbsp
 </div>
 
