@@ -19,7 +19,7 @@
 <br>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Unity-FFFFFF.svg?style=for-the-badge&logo=unity&logoColor=37abff" />&nbsp
+  <img src="https://img.shields.io/badge/Unity-F3F3F3.svg?style=for-the-badge&logo=unity&logoColor=37abff" />&nbsp
 </div>
 
 <br>
